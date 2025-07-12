@@ -36,6 +36,7 @@ I'm currently looking for a **frontend internship** to grow through real-world e
 ---
 
 ## 📬 Contact
+📧 Email: [your.email@example.com](mailto:mahdi1nap@gmail.com)
 
 <a target="_blank" href="https://instagram.com/mahdi.nap" rel="nofollow">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -47,4 +48,4 @@ I'm currently looking for a **frontend internship** to grow through real-world e
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
