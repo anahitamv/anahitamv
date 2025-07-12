@@ -36,7 +36,7 @@ I'm currently looking for a **frontend internship** to grow through real-world e
 ---
 
 ## 📬 Contact
-📧 Email: [your.email@example.com](mailto:mahdi1nap@gmail.com)
+📧 Email: [mahdi1nap@gmail.com](mailto:mahdi1nap@gmail.com)
 
 <a target="_blank" href="https://instagram.com/mahdi.nap" rel="nofollow">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
