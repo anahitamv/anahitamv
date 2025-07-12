@@ -46,6 +46,5 @@ I'm currently looking for a **frontend internship** to grow through real-world e
 <a href="https://t.me/mahdinap" rel="nofollow">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="mailto:your.email@example.com" rel="nofollow">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+
+📧 Email: [your.email@example.com](mailto:your.email@example.com)
